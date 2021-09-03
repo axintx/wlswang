@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
+Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from China.
+- 🔭 I’m currently working on something cool 😉;
+- 🌱 I’m currently learning Javascript;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: eniac10@163.com
