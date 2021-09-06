@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 ### 你好，世界 👋
 Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from China.
@@ -25,7 +25,7 @@ Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from Ch
 - 📫 How to reach me: eniac10@163.com
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=wlsmusic&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/wlswang/wlsmusic)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=wlsmusic&show_owner=true&title_color=F8854D&icon_color=F8854D)(https://github.com/wlswang/wlsmusic)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)
