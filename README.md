@@ -23,3 +23,13 @@ Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from Ch
 - 🌱 I’m currently learning Javascript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eniac10@163.com
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=netmusic-node&show_owner=true&title_color=F8CE04)](https://github.com/sqaiyan/netmusic-node)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=neteasemusic&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/sqaiyan/neteasemusic)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)]()
