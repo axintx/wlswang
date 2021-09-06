@@ -27,4 +27,5 @@ Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from Ch
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=wlsmusic&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/wlswang/wlsmusic)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)
