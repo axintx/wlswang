@@ -24,8 +24,7 @@ Hi, I'm wlswang!, a passionate self-taught Full Stack Web Developer 🚀 from Ch
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eniac10@163.com
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=wlsmusic&show_owner=true&title_color=F8854D&icon_color=F8854D)(https://github.com/wlswang/wlsmusic)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlswang&repo=wlsmusic&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/wlswang/wlsmusic)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlswang&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlswang)
